@@ -1,7 +1,53 @@
 *{
-  padding: 0;
-  margin: 0;
+  margin: 0%;
+  padding: 0%;
 }
-h1{
-color: blue;
+
+.topnav {
+  justify-content: space-around;
+  display: flex;
+  flex-direction: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav h3.active {
+  color: black;
+  color: white;
+}
+hr.new4 {
+  border: px solid gray ;
+}
+
+.legeng_text {
+  text-align: center;
+  margin-top: 60px;
+}
+
+form{
+margin-top: inherit;
+
+}
+
+.ali_raza{
+width: 20%;
+height: 20px;
+text-align: center;
+}
+.notify {
+  height: 20px;
+  
 }
