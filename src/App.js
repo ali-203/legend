@@ -48,14 +48,31 @@ function App() {
 <AirplayIcon />
 <h1>Portfolio...</h1>
 </div>
+<div className="all_img">
+<div className="images-one">
+<img src="img.png" width="100%" height="100%"/>
+<div className="ethan">
+<h2>hajkacjhas c</h2>
+<p>uhcasjkkasjdadjknckjd.cjkcjhcbjhcbc</p>
+</div>
+</div>
 
-<img src="img.png" width="30%" height="30%"/>
-<img src="img.png" width="30%" height="30%"/>
-<img src="img.png" width="30%" height="30%"/>
-<img src="img.png" width="30%" height="30%"/>
-<img src="img.png" width="30%" height="30%"/>
-<img src="img.png" width="30%" height="30%"/>
-
+<div className="imah_two">
+ <img src="ali.png" width="100%" height="100%"/>
+ <h3>ghzvxjjb </h3>
+<p>jhcjh</p>
+</div>
+<div>
+ <img src="ihh.png" width="100%" height="100%"/>
+ <h3>ghzvxjjb </h3>
+<p>jhcjh</p>
+</div>
+</div>
+{/* <div className="images-two">
+<img src="lap.png" width="30%" height="30%"/>
+<img src="nhh.png" width="30%" height="30%"/>
+<img src="nic.png" width="30%" height="30%"/>
+</div> */}
 </div>
 
  </>

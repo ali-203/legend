@@ -46,11 +46,11 @@ margin-top: inherit;
 
 .ali_raza{
 width: 20%;
-height: 20px;
+height: 25px;
 text-align: center;
 }
 .notify {
-  height: 20px;
+  height: 27px;
   
 }
 
@@ -83,3 +83,22 @@ text-align: center;
 text-align: center;
 
 }
+
+/* .images-one {
+  padding-top: 50px;
+  display: flex;
+    justify-content: center;
+}
+
+.images-two {
+  display: flex;
+  justify-content: center;
+} */
+
+
+.all_img {
+  margin-left: 100px;
+  display: flex;
+  flex-direction: inherit;
+}
+
