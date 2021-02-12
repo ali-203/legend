@@ -5,6 +5,7 @@ import AccessibilityIcon from '@material-ui/icons/Accessibility';
 import AccountBalanceIcon from '@material-ui/icons/AccountBalance';
 import AccountBoxIcon from '@material-ui/icons/AccountBox';
 import AirplayIcon from '@material-ui/icons/Airplay';
+
 function App() {
     return (
         <>
@@ -48,6 +49,12 @@ function App() {
 <h1>Portfolio...</h1>
 </div>
 
+<img src="img.png" width="30%" height="30%"/>
+<img src="img.png" width="30%" height="30%"/>
+<img src="img.png" width="30%" height="30%"/>
+<img src="img.png" width="30%" height="30%"/>
+<img src="img.png" width="30%" height="30%"/>
+<img src="img.png" width="30%" height="30%"/>
 
 </div>
 
