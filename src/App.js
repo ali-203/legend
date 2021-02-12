@@ -39,8 +39,9 @@ function App() {
 <div className="hedding">
 <h2>We work to make web a beautifull  place</h2>
 <h2> we craft beautifull design and convert then <br />into fully functional and user friendly webapp </h2>
-
 </div>
+
+
 
  </>
     )
