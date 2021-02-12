@@ -64,8 +64,10 @@ text-align: center;
   background-color: gray;
 }
 .hedding {
+  
   text-align: center;
-  margin-top: 4px;
+  height: 125px;
+  padding-top: 44px;
   color: white;
   background-color: yellow;
  
