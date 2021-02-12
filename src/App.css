@@ -29,7 +29,7 @@
   color: white;
 }
 hr.new4 {
-  border: px solid gray ;
+  border: 2px solid pink;
 }
 
 .legeng_text {
@@ -50,4 +50,23 @@ text-align: center;
 .notify {
   height: 20px;
   
+}
+
+.icons{
+  padding-bottom: 20px;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+
+}
+
+.back_img {
+  background-color: gray;
+}
+.hedding {
+  text-align: center;
+  margin-top: 4px;
+  color: white;
+  background-color: yellow;
+ 
 }

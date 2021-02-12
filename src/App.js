@@ -2,7 +2,8 @@ import React from 'react';
 import "./App.css";
 import FacebookIcon from '@material-ui/icons/Facebook';
 import AccessibilityIcon from '@material-ui/icons/Accessibility';
-
+import AccountBalanceIcon from '@material-ui/icons/AccountBalance';
+import AccountBoxIcon from '@material-ui/icons/AccountBox';
 function App() {
     return (
         <>
@@ -30,14 +31,18 @@ function App() {
 <div className="icons">
 <FacebookIcon />
 <AccessibilityIcon />
+<AccountBalanceIcon />
+<AccountBoxIcon />
 </div>
+</div>
+       
 <div className="hedding">
-<h1>We work to make web a beautifull  place we craft beautifull design and convert then into fully functional and user friendly webapp </h1>
+<h2>We work to make web a beautifull  place</h2>
+<h2> we craft beautifull design and convert then <br />into fully functional and user friendly webapp </h2>
 
 </div>
 
-</div>
-        </>
+ </>
     )
 }
 
