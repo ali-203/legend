@@ -46,7 +46,7 @@ function App() {
 
 <div className="image_div">
 <div className="portfolio"> 
-<AirplayIcon />
+<AirplayIcon fontSize='large'/>
 <h1>Portfolio...</h1>
 </div>
  <div className="all_img">
@@ -94,7 +94,7 @@ function App() {
 </div>
 </div> 
 <div className="servc">
-<SettingsApplicationsIcon />
+<SettingsApplicationsIcon  fontSize='large'	/>
 <h1>Services</h1>
 
 </div>
