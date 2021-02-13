@@ -95,7 +95,7 @@ function App() {
 </div> 
 <div className="servc">
 <SettingsApplicationsIcon  fontSize='large'	/>
-<h1>Services</h1>
+<h2>Services</h2>
 
 </div>
 
