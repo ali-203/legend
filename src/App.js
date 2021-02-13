@@ -104,24 +104,26 @@ function App() {
 
 <div className="service_main">
   <div className="div_one">
-  <WebIcon fontSize="large" color="primary" /> 
+   <WebIcon fontSize="large" color="primary" /> 
   <h3>Web Design</h3>
-
-
-
+  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> 
+  
   </div>
   <div className="div_two">
-  <PrintIcon fontSize="large" color="primary"/>
+   <PrintIcon fontSize="large" color="primary"/>
   <h3>Print Design</h3>
+  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> 
 
   </div>
   <div className="div_three">
   <AddShoppingCartIcon fontSize="large" color="primary" />
     <h3>Ecommerce</h3>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
   </div>
   <div className="div_four">
   <PhoneIphoneIcon fontSize="large" color="primary"/>
     <h3>Markiting</h3>
+    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
   </div>
 </div>
 
