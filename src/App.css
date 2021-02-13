@@ -66,11 +66,9 @@ text-align: center;
   background-color: gray;
 }
 .hedding {
-  
   text-align: center;
   height: 125px;
   padding-top: 44px;
-  color: white;
   background-color: yellow;
  
 }
@@ -79,10 +77,42 @@ text-align: center;
 }
 
 .portfolio {
+  margin-bottom: 30px;
   margin-top: 50px;
 text-align: center;
 
 }
+
+.all_img {
+  display: flex;
+  justify-content: space-around;
+} 
+
+
+.all_img p{
+  font-size: 10px;
+}
+
+
+@media screen and (max-width: 600px) {
+
+  .all_img {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+  } 
+
+
+}
+
+
+
+
+
+
+
+
 
 /* .images-one {
   padding-top: 50px;
@@ -95,10 +125,14 @@ text-align: center;
   justify-content: center;
 } */
 
+/* 
 
-.all_img {
-  margin-left: 100px;
-  display: flex;
-  flex-direction: inherit;
-}
 
+/* .para-div {
+   display: flex;
+  justify-content: space-around;
+} */
+/* .para2_div {
+display: flex;
+justify-content: space-around;
+} */

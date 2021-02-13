@@ -48,32 +48,85 @@ function App() {
 <AirplayIcon />
 <h1>Portfolio...</h1>
 </div>
-<div className="all_img">
+ <div className="all_img">
 <div className="images-one">
-<img src="img.png" width="100%" height="100%"/>
-<div className="ethan">
-<h2>hajkacjhas c</h2>
-<p>uhcasjkkasjdadjknckjd.cjkcjhcbjhcbc</p>
-</div>
-</div>
+<img src="img.png"/>
+<h2>Computer</h2>
+<p> I am a web develoment student in
+ blocktech solution softwear house</p>
 
+</div>
 <div className="imah_two">
- <img src="ali.png" width="100%" height="100%"/>
- <h3>ghzvxjjb </h3>
-<p>jhcjh</p>
+ <img src="ali.png"/>
+ <h2>Computer</h2>
+ <p> I am a web develoment student in
+ blocktech solution softwear house</p>
 </div>
 <div>
- <img src="ihh.png" width="100%" height="100%"/>
- <h3>ghzvxjjb </h3>
-<p>jhcjh</p>
+ <img src="ihh.png" />
+ <h2>Computer</h2>
+ <p> I am a web develoment student in
+  blocktech solution softwear house</p>
 </div>
+</div> 
 </div>
+<div className="image_div">
+ <div className="all_img">
+<div className="images-one">
+<img src="lap.png"/>
+<h2>Computer</h2>
+<p> I am a web develoment student in
+ blocktech solution softwear house</p>
+
+</div>
+<div className="imah_two">
+<img src="nhh.png"/>
+ <h2>Computer</h2>
+ <p> I am a web develoment student in
+ blocktech solution softwear house</p>
+</div>
+<div>
+<img src="nic.png"/>
+ <h2>Computer</h2>
+ <p> I am a web develoment student in
+  blocktech solution softwear house</p>
+</div>
+</div> 
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+{/* <div className= "para-div">
+  <h2>Computer</h2>
+  <h2>Computer</h2>
+  <h2>Computer</h2>
+</div> */}
+{/* <div className="para2_div">
+  <p> I am a web develoment student in blocktech solution softwear house</p>
+  <p>I am a web develoment student in blocktech solution softwear house</p>
+  <p>I am a web develoment student in blocktech solution softwear house</p>
+  <p>I am a web develoment student in blocktech solution softwear house</p>
+</div> */}
+
+
+
+
+
 {/* <div className="images-two">
 <img src="lap.png" width="30%" height="30%"/>
 <img src="nhh.png" width="30%" height="30%"/>
 <img src="nic.png" width="30%" height="30%"/>
 </div> */}
-</div>
+
 
  </>
     )
