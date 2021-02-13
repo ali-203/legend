@@ -70,7 +70,7 @@ function App() {
 </div>
 </div> 
 </div>
-<div className="image_div">
+
  <div className="all_img">
 <div className="images-one">
 <img src="lap.png"/>
@@ -85,14 +85,14 @@ function App() {
  <p> I am a web develoment student in
  blocktech solution softwear house</p>
 </div>
-<div>
+<div className="image_three">
 <img src="nic.png"/>
  <h2>Computer</h2>
  <p> I am a web develoment student in
   blocktech solution softwear house</p>
 </div>
 </div> 
-</div>
+
 
 
 
