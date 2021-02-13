@@ -6,6 +6,10 @@ import AccountBalanceIcon from '@material-ui/icons/AccountBalance';
 import AccountBoxIcon from '@material-ui/icons/AccountBox';
 import AirplayIcon from '@material-ui/icons/Airplay';
 import SettingsApplicationsIcon from '@material-ui/icons/SettingsApplications';
+import WebIcon from '@material-ui/icons/Web';
+import PrintIcon from '@material-ui/icons/Print';
+import AddShoppingCartIcon from '@material-ui/icons/AddShoppingCart';
+import PhoneIphoneIcon from '@material-ui/icons/PhoneIphone';
 
 function App() {
     return (
@@ -96,7 +100,29 @@ function App() {
 <div className="servc">
 <SettingsApplicationsIcon  fontSize='large'	/>
 <h2>Services</h2>
+</div>
 
+<div className="service_main">
+  <div className="div_one">
+  <WebIcon fontSize="large" color="primary" /> 
+  <h3>Web Design</h3>
+
+
+
+  </div>
+  <div className="div_two">
+  <PrintIcon fontSize="large" color="primary"/>
+  <h3>Print Design</h3>
+
+  </div>
+  <div className="div_three">
+  <AddShoppingCartIcon fontSize="large" color="primary" />
+    <h3>Ecommerce</h3>
+  </div>
+  <div className="div_four">
+  <PhoneIphoneIcon fontSize="large" color="primary"/>
+    <h3>Markiting</h3>
+  </div>
 </div>
 
 
