@@ -122,15 +122,13 @@ margin-top: auto;
   
   justify-content: space-evenly;
     padding-bottom: 10px;
-    background-color: gray;
     text-align: center;
     display: flex;
   
 } 
-
 .div_one{
 height: 25%;
-    width: 170px;
+    width: 20%;
     background-color: lightcyan;
     padding-top: 10px;
     color: black;
@@ -138,7 +136,7 @@ height: 25%;
 
 .div_two {
   height: 25%;
-  width: 170px;
+  width: 20%;
   background-color: lightgoldenrodyellow;
    padding-top: 10px;
   color: black; 
@@ -147,7 +145,7 @@ height: 25%;
 }
 .div_three {
   height: 25%;
-  width: 170px;
+  width: 20%;
   background-color: lightgreen;
    padding-top: 10px;
   color: black; 
@@ -156,14 +154,11 @@ height: 25%;
   
 }
  .div_four { 
-   height: 30%;
-  width: 170px;
+   height: 25%;
+  width: 20%;
 background-color: lightsalmon;
   padding-top: 10px;
   color: black; 
-   
-
-  
 }   
 
 
