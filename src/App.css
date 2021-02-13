@@ -80,15 +80,11 @@ text-align: center;
   margin-bottom: 30px;
   margin-top: 50px;
 text-align: center;
-
 }
-
 .all_img {
   display: flex;
   justify-content: space-around;
 } 
-
-
 .all_img p{
   font-size: 10px;
   font-weight: bold;
@@ -100,17 +96,20 @@ margin-top: auto;
   margin-top: auto;
 } 
 
-
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 670px) {
 
   .all_img {
+  
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
 
   } 
+}
 
-
+.servc {
+  text-align: center;
+  margin-top: 30px;
 }
 
 

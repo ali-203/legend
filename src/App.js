@@ -5,6 +5,7 @@ import AccessibilityIcon from '@material-ui/icons/Accessibility';
 import AccountBalanceIcon from '@material-ui/icons/AccountBalance';
 import AccountBoxIcon from '@material-ui/icons/AccountBox';
 import AirplayIcon from '@material-ui/icons/Airplay';
+import SettingsApplicationsIcon from '@material-ui/icons/SettingsApplications';
 
 function App() {
     return (
@@ -92,6 +93,11 @@ function App() {
   blocktech solution softwear house</p>
 </div>
 </div> 
+<div className="servc">
+<SettingsApplicationsIcon />
+<h1>Services</h1>
+
+</div>
 
 
  </>
