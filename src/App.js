@@ -94,40 +94,6 @@ function App() {
 </div> 
 
 
-
-
-
-
-
-
-
-
-
-
-
-{/* <div className= "para-div">
-  <h2>Computer</h2>
-  <h2>Computer</h2>
-  <h2>Computer</h2>
-</div> */}
-{/* <div className="para2_div">
-  <p> I am a web develoment student in blocktech solution softwear house</p>
-  <p>I am a web develoment student in blocktech solution softwear house</p>
-  <p>I am a web develoment student in blocktech solution softwear house</p>
-  <p>I am a web develoment student in blocktech solution softwear house</p>
-</div> */}
-
-
-
-
-
-{/* <div className="images-two">
-<img src="lap.png" width="30%" height="30%"/>
-<img src="nhh.png" width="30%" height="30%"/>
-<img src="nic.png" width="30%" height="30%"/>
-</div> */}
-
-
  </>
     )
 }
