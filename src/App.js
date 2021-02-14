@@ -36,10 +36,10 @@ function App() {
     </form>
 </div>
 <div className="icons">
-<FacebookIcon />
-<AccessibilityIcon />
-<AccountBalanceIcon />
-<AccountBoxIcon />
+<FacebookIcon  fontSize="large" color="primary"/>
+<AccessibilityIcon  fontSize="large" color="primary"/>
+<AccountBalanceIcon fontSize="large" color="primary"/>
+<AccountBoxIcon  fontSize="large" color="primary"/>
 </div>
 </div>
        
