@@ -52,7 +52,6 @@ text-align: center;
 }
 .notify {
   height: 37px;
-  
 }
 
 .icons{
@@ -84,6 +83,7 @@ text-align: center;
 text-align: center;
 }
 .all_img {
+
   display: flex;
   justify-content: space-around;
 } 
@@ -163,29 +163,10 @@ background-color: lightsalmon;
   color: black; 
 }   
 
-
-
-
-
-/* .images-one {
-  padding-top: 50px;
-  display: flex;
-    justify-content: center;
+.footer_div {
+padding-bottom: 150px;
+background-color: black;
 }
 
-.images-two {
-  display: flex;
-  justify-content: center;
-} */
-
-/* 
 
 
-/* .para-div {
-   display: flex;
-  justify-content: space-around;
-} */
-/* .para2_div {
-display: flex;
-justify-content: space-around;
-} */
