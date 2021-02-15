@@ -54,20 +54,20 @@ function App() {
 <h1>Portfolio...</h1>
 </div>
  <div className="all_img">
-<div className="images-one">
-<img src="img.png"/>
+<div className="imag_one">
+<img  src="img.png"/>
 <h2>Computer</h2>
 <p> I am a web develoment student in
  blocktech solution softwear house</p>
 
 </div>
 <div className="imah_two">
- <img src="ali.png"/>
+ <img className="images-one" src="ali.png"/>
  <h2>Computer</h2>
  <p> I am a web develoment student in
  blocktech solution softwear house</p>
 </div>
-<div>
+<div className="images-three">
  <img src="ihh.png" />
  <h2>Computer</h2>
  <p> I am a web develoment student in
@@ -84,7 +84,7 @@ function App() {
  blocktech solution softwear house</p>
 
 </div>
-<div className="imah_two">
+<div className="imah-two">
 <img src="nhh.png"/>
  <h2>Computer</h2>
  <p> I am a web develoment student in

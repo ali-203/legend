@@ -83,7 +83,6 @@ text-align: center;
 text-align: center;
 }
 .all_img {
-
   display: flex;
   justify-content: space-around;
 } 
@@ -167,6 +166,22 @@ background-color: lightsalmon;
 padding-bottom: 150px;
 background-color: black;
 }
+.imag_one:hover {
+background-color: gray;
+}
 
-
-
+.imah_two:hover{
+  background-color: gray;
+}
+.images-three:hover{
+  background-color: gray;
+}
+.images-one:hover{
+  background-color: gray;
+}
+.imah-two:hover {
+  background-color: gray;
+}
+.image_three {
+  background-color: gray;
+}
