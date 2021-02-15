@@ -18,11 +18,11 @@ function App() {
     <div class="topnav">
   <h3 className="active" href="#home">Legend!</h3>
   <div class="topnav-right">
-  <a href="#contact">Portfoli</a>
-  <a href="#contact">News</a>
-  <a href="#contact">Services</a>
-    <a href="#search">Search</a>
-    <a href="#about">About</a>
+  <a href="https://www.w3schools.com/" target="blank">Portfoli</a>
+  <a href= "https://www.britannica.com/" target="blank">News</a>
+  <a href="https://www.w3schools.com/" target="blank">Services</a>
+    <a href="https://www.azeemhussain.pk/" target="blank">Search</a>
+    <a href="https://www.w3schools.com/" target="blank">About</a>
   </div>
 </div>
 <hr className="new4"/>
@@ -126,7 +126,7 @@ function App() {
     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
   </div>
 </div>
-<div className="footer_div">sddd</div>
+<div className="footer_div">Bloc Tech Solution </div>
 
 
  </>

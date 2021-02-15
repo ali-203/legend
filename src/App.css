@@ -31,13 +31,19 @@
   font-size: 26px;
 }
 hr.new4 {
-  border: 2px solid pink;
+  border: 1px solid papayawhip;
 }
 
 .legeng_text {
+  height: 200px;
+  /* background-repeat: no-repeat; */
+  background-image: url("../src/backimg.png");
   font-family: sans-serif;
   text-align: center;
-  margin-top: 60px;
+  /* margin-top: 60px; */
+}
+.legeng_text h1{
+color: aqua;
 }
 
 form{
@@ -57,15 +63,15 @@ text-align: center;
 .icons{
   background-color: khaki;
   padding-bottom: 20px;
-  margin-top: 40px;
+  margin-top: 20px;
   display: flex;
   justify-content: center;
 
 }
 
-.back_img {
+/* .back_img {
   background-color: gray;
-}
+} */
 .hedding {
   text-align: center;
   height: 125px;
@@ -164,25 +170,28 @@ background-color: lightsalmon;
 }   
 
 .footer_div {
+  color: white;
+  text-align: center;
 padding-bottom: 150px;
 background-color: black;
+padding-top: 118px;
+font-size: xx-large;
 }
 .imag_one:hover {
-background-color: gray;
+background-color: lightgrey;
 }
-
 .imah_two:hover{
-  background-color: gray;
+  background-color: lightgrey;
 }
 .images-three:hover{
-  background-color: gray;
+  background-color: lightgrey;
 }
 .images-one:hover{
-  background-color: gray;
+  background-color: lightgrey;
 }
 .imah-two:hover {
-  background-color: gray;
+  background-color: lightgrey;
 }
 .imag_three:hover {
-  background-color: gray;
+  background-color: lightgrey;
 }
