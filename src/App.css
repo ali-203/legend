@@ -46,6 +46,18 @@ hr.new4 {
   padding-top: 10px;
   color: blanchedalmond;
 }
+ .legeng_text h1 {
+  position: relative;
+  animation: mymove 5s infinite;
+} 
+
+ @keyframes mymove {
+  from {left: 0px;}
+  to {left: 200px;}
+} 
+
+
+
 
 form{
 margin-top: 50px;
