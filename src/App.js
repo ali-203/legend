@@ -90,7 +90,7 @@ function App() {
  <p> I am a web develoment student in
  blocktech solution softwear house</p>
 </div>
-<div className="image_three">
+<div className="imag_three">
 <img src="nic.png"/>
  <h2>Computer</h2>
  <p> I am a web develoment student in
