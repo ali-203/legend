@@ -50,7 +50,7 @@ function App() {
 
 <div className="image_div">
 <div className="portfolio"> 
-<AirplayIcon fontSize='large'/>
+<AirplayIcon fontSize='large' color="primary"/>
 <h1>Portfolio...</h1>
 </div>
  <div className="all_img">
@@ -74,8 +74,6 @@ function App() {
   blocktech solution softwear house</p>
 </div>
 </div> 
-</div>
-
  <div className="all_img">
 <div className="images-one">
 <img src="lap.png"/>
@@ -97,6 +95,7 @@ function App() {
   blocktech solution softwear house</p>
 </div>
 </div> 
+</div>
 <div className="servc">
 <SettingsApplicationsIcon  fontSize='large'	/>
 <h2>Services</h2>
