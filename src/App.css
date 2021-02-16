@@ -198,6 +198,7 @@ background-color: lightgrey;
 }
 
 .footer_div {
+  background-image: url("../src/table.png");
   color: white;
   text-align: center;
   padding-bottom: 150px;
