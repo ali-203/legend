@@ -46,25 +46,21 @@ hr.new4 {
   padding-top: 10px;
   color: blanchedalmond;
 }
- .legeng_text h1 {
-  position: relative;
-  animation: mymove 5s infinite;
-} 
-
- @keyframes mymove {
-  from {left: 0px;}
-  to {left: 200px;}
-} 
 
 
-
+   /* .legeng_text h1 { 
+   /* width: 100px; 
+   height: 100px; 
+    background: red;   */
+    /* position: relative;
+  animation: mymove 6s infinite;  */
 
 form{
 margin-top: 50px;
 }
 form p{
     color: white;
-}
+} 
 
 .ali_raza{
 width: 20%;
@@ -182,14 +178,6 @@ background-color: lightsalmon;
   color: black; 
 }   
 
-.footer_div {
-  color: white;
-  text-align: center;
-padding-bottom: 150px;
-background-color: black;
-padding-top: 118px;
-font-size: xx-large;
-}
 .imag_one:hover {
 background-color: lightgrey;
 }
@@ -207,4 +195,42 @@ background-color: lightgrey;
 }
 .imag_three:hover {
   background-color: lightgrey;
+}
+
+.footer_div {
+  color: white;
+  text-align: center;
+  padding-bottom: 150px;
+  background-color: black;
+  padding-top: 75px;
+  font-size: xx-large;
+  }
+  .footer_div h2{
+    padding-bottom: 25px;
+  }
+
+
+.customers td, .customers th {
+  border: 1px solid #ddd;
+  padding: 6px;
+}
+.customers {
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 70%;
+
+}
+.customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+}
+
+.customers tr:hover
+ 
+{
+  background-color:lightblue;
 }

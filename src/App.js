@@ -125,9 +125,52 @@ function App() {
     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
   </div>
 </div>
-<div className="footer_div">Bloc Tech Solution </div>
+<div className="footer_div">
+<h2>Bloc Tech Solution</h2>
+<table className="customers">
+  <tr>
+    <th>Name</th>
+    <th>Contact</th>
+    <th>Designation</th>
+  </tr>
+  <tr>
+    <td>Sir SALMAN</td>
+    <td>+9203031234563</td>
+    <td>Company owner</td>
+  </tr>
+  <tr>
+    <td>Sir Sufian</td>
+    <td>+9203031234563</td>
+    <td>Company owner</td>
+  </tr>
+  <tr>
+    <td>Faial Bhai</td>
+    <td>+9203031234563</td>
+    <td> Developer</td>
+  </tr>
+  <tr>
+    <td>Sufian Bhai</td>
+    <td>+9203031234563</td>
+    <td>Developer</td>
+  </tr>
+  <tr>
+    <td>Sohail Bhai</td>
+    <td>+9203031234563</td>
+    <td>Developer</td>
+  </tr>
+  <tr>
+    <td>Ali Akbar</td>
+    <td>+9203031234563</td>
+    <td>Develope</td>
+  </tr>
+  <tr>
+    <td>Ali Raza</td>
+    <td>+9203031234563</td>
+    <td>Develope</td>
+  </tr>
+</table>
 
-
+ </div>
  </>
     )
 }
