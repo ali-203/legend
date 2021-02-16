@@ -11,6 +11,7 @@ import PrintIcon from '@material-ui/icons/Print';
 import AddShoppingCartIcon from '@material-ui/icons/AddShoppingCart';
 import PhoneIphoneIcon from '@material-ui/icons/PhoneIphone';
 
+
 function App() {
     return (
         <>
@@ -161,15 +162,19 @@ function App() {
   <tr>
     <td>Ali Akbar</td>
     <td>+9203031234563</td>
-    <td>Develope</td>
+    <td>Developer</td>
   </tr>
   <tr>
     <td>Ali Raza</td>
     <td>+9203031234563</td>
-    <td>Develope</td>
+    <td>Developer</td>
   </tr>
 </table>
 
+ </div>
+ <div className="new_img">
+ <img className="block1" src="blockchain.png" width="500" />
+ <img className="block2" src="block2.png" width="500"/>
  </div>
  </>
     )

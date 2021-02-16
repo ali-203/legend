@@ -36,11 +36,12 @@ hr.new4 {
 
 .legeng_text {
   height: 200px;
-  /* background-repeat: no-repeat; */
+  background-size: cover;
+  background-repeat: no-repeat;
   background-image: url("../src/backimg.png");
   font-family: sans-serif;
   text-align: center;
-  /* margin-top: 60px; */
+ 
 }
 .legeng_text h1{
   padding-top: 10px;
@@ -198,7 +199,8 @@ background-color: lightgrey;
 }
 
 .footer_div {
-  background-image: url("../src/table.png");
+  
+  background-repeat: no-repeat;
   color: white;
   text-align: center;
   padding-bottom: 150px;
@@ -235,3 +237,19 @@ background-color: lightgrey;
 {
   background-color:lightblue;
 }
+.new_img  {
+  background-size: cover;
+    background-repeat: no-repeat;
+    width: auto; 
+     height: 900px;
+background-image: url("../src/new.png");
+}
+.block1{
+margin-left: 80px;
+margin-top: 20px;
+}
+
+.block2{
+margin-left: 140px;
+    margin-bottom: 55px
+  }
