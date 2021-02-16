@@ -126,20 +126,10 @@ function App() {
     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
   </div>
 </div>
-<div className="footer_div">
+  <div className="footer_div">  
 <h2>Bloc Tech Solution</h2>
- <div class="grid-container">
-  <div class="item1">1</div>
-  <div class="item2">2</div>
-  <div class="item3">3</div>  
-  <div class="item4">4</div>
-  <div class="item5">5</div>
-  <div class="item6">6</div>
-</div> 
 
-
-
-{/* <table className="customers">
+<table className="customers">
   <tr>
     <th>Name</th>
     <th>Contact</th>
@@ -180,10 +170,10 @@ function App() {
     <td>+9203031234563</td>
     <td>Developer</td>
   </tr>
-</table> */}
+</table>
 
-  </div>
- {/* <div className="new_img">
+    </div>  
+  <div className="new_img">
  <h1>Learn Bitcoin and start building Bitcoin-based applications.</h1>
  <img className="block1" src="blockchain.png" width="500" />
  <img className="block2" src="block2.png" width="500"/>
@@ -191,7 +181,7 @@ function App() {
    
    <p></p>
  </div>
- </div>  */}
+ </div>  
  </>
     )
 }
